@@ -11,6 +11,8 @@
   <a href="https://github.com/sourabh7300?tab=repositories">🔬 All repositories</a>
 </p>
 
+<p align="center"><b>✅ Open to internships, junior roles and freelance</b> — every claim on this page is a live demo, not a screenshot.</p>
+
 ---
 
 ## 🚀 The Flagship — one link, four live apps
@@ -24,6 +26,8 @@
 | 03 | 🌐 **[AURA](https://sourabh7300.github.io)** | Jarvis-style holographic AI — 3D particle core, **voice in/out**, deep web research (Wikipedia + DuckDuckGo fusion), offline brain |
 | 04 | 🎨 **[Lucid](https://sourabh7300.github.io)** | AI Pro Photo Studio — **50+ hand-coded pixel engines**: curves, HSL mixer, clarity convolution, bloom, bokeh, grain |
 
+> 🧬 **AURA upgrades herself** — she reads her own source code, writes the changes, ships them to [her own repository](https://github.com/sourabh7300/aura/commits/main) and rolls back via her upgrade history. Every commit is gated by the owner's explicit approval.
+
 ---
 
 ## 🔬 The Lab — DevOps, SRE & AI experiments
@@ -36,14 +40,14 @@
 | **Autonomous SRE** — multi-agent incident responder | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/autonomous-sre.html) | Detection → triage → remediation, visualized |
 | **CloudPilot** — infrastructure that ships itself | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/cloudpilot.html) | IaC provisioning console |
 | **LLMOps Pipeline** — dynamic GPU scaling | [▶ demo](https://sourabh7300.github.io/llmops-pipelines/llmops-pipeline.html) | The path from prompt to tokens, scaled |
-| **Continuous Pipeline** — CI/CD trace | [▶ demo](https://sourabh7300.github.io/pipeline-dashboard/pipeline-dashboard.html) | Builds → tests → deploys, traced end to end |
+| **Continuous Pipeline** — CI/CD trace | [▶ demo](https://sourabh7300.github.io/CICD-web-app/pipeline-dashboard.html) | Builds → tests → deploys, traced end to end |
 | **DevOps Math** — numbers behind the pipeline | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/devops-math.html) | SLOs, percentiles and capacity, made intuitive |
 | **Ephemeral Playgrounds** — IaC sandboxes | [▶ demo](https://sourabh7300.github.io/Ephemeral-Playgrounds/ephemeral-playgrounds.html) | Live fast, die clean, cost nothing |
 
 ### 🧠 AI & Assistants
 | Project | Live | What it proves |
 |---|---|---|
-| **Kin** — the copilot that remembers | [▶ demo](https://sourabh7300.github.io/index.html/kin_copilot_standalone.html) | Bring-your-own-key copilot with memory |
+| **Kin** — the copilot that remembers | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/kin_copilot_standalone.html) | Bring-your-own-key copilot with memory |
 | **Groundwork** — learn AI from zero | [▶ demo](https://sourabh7300.github.io/groundwork-AI-/groundwork.html) | 8 interactive lessons, zero math background needed |
 | **J.A.R.V.I.S Mark VII** — dev console | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/jarvis_1.html) | AI neural-link operations console |
 | **Quantum Circuit Simulator** | [▶ demo](https://sourabh7300.github.io/quantum-project-/quantum_circuit_simulator.html) | Gates, superposition & entanglement in-browser |
