@@ -49,18 +49,11 @@
 | Project | Live | What it proves |
 |---|---|---|
 | **Kin** — the copilot that remembers | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/kin_copilot_standalone.html) | Bring-your-own-key copilot with memory |
-| **Groundwork** — learn AI from zero | [▶ demo](https://sourabh7300.github.io/groundwork-AI-/groundwork.html) | 8 interactive lessons, zero math background needed |
 | **J.A.R.V.I.S Mark VII** — dev console | [▶ demo](https://sourabh7300.github.io/autonomus-SRE.html/jarvis_1.html) | AI neural-link operations console |
-| **Quantum Circuit Simulator** | [▶ demo](https://sourabh7300.github.io/quantum-project-/quantum_circuit_simulator.html) | Gates, superposition & entanglement in-browser |
 
 ### 🛠️ Tools & Utilities
 | Project | Live | What it proves |
 |---|---|---|
-| **Shieldlink** — secure short links | [▶ demo](https://sourabh7300.github.io/shieldlink/shieldlink.html) | Password-protected, expiring URLs, client-side |
-| **snip** — instant URL shortener | [▶ demo](https://sourabh7300.github.io/url-snip/url-snip.html) | Useful tools don't need a backend |
-| **API Key Manager** | [▶ demo](https://sourabh7300.github.io/API-generating-key-/api-key-manager.html) | Generate, scope, rotate, revoke — with audit |
-| **Sky Ledger** — weather field log | [▶ demo](https://sourabh7300.github.io/sky-ledger/sky-ledger-weather.html) | Open-Meteo powered, journal-style |
-| **Forge** — code scaffolder | [▶ demo](https://sourabh7300.github.io/forge/forge.html) | Write the skeleton, forge the rest |
 
 ---
 
