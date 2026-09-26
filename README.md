@@ -8,7 +8,8 @@
 <p align="center">
   <a href="https://sourabh7300.github.io"><b>🌐 Live Portfolio</b></a> ·
   <a href="https://github.com/sourabh7300/sourabh7300.github.io">📁 Portfolio source</a> ·
-  <a href="https://github.com/sourabh7300?tab=repositories">🔬 All repositories</a>
+  <a href="https://github.com/sourabh7300?tab=repositories">🔬 All repositories</a> ·
+  <a href="https://sourabh7300.github.io/project-web.html">🕸 Project Web — every app, one hub</a>
 </p>
 
 <p align="center"><b>✅ Open to internships, junior roles and freelance</b> — every claim on this page is a live demo, not a screenshot.</p>
