@@ -32,29 +32,15 @@ Everything below is hand-written HTML, CSS and JS in a single file per product �
 
 ---
 
-## Live lab — DevOps, SRE & AI, all runnable
+## More, also live
 
-Multi-agent incident response, infrastructure that plans itself, and pipelines you can trace from prompt to GPU. Every one is a working URL.
+- **[Quantum Circuit Simulator](https://sourabh7300.github.io/quantum.html)** — build a circuit, watch the amplitudes collapse; a state-vector simulator in one page.
+- **[Foodora](https://sourabh7300.github.io/foodora.html)** — food-delivery platform: 12 restaurants, 48 dishes with recipes in English, Hindi and Spanish.
+- **[Groundwork](https://sourabh7300.github.io/groundwork.html)** — learn AI from zero, eight fully interactive lessons.
+- **[Mercedes-Benz](https://sourabh7300.github.io/mercedes.html)** — cinematic brand showcase, pure CSS and canvas.
+- **[Project Web](https://sourabh7300.github.io/project-web.html)** — every app in one gallery with live badges.
 
-| Project | Live | What it proves |
-|---|---|---|
-| **Autonomous SRE** | [▶ run](https://sourabh7300.github.io/sre.html) | Detect → triage → remediate → verify, four agents, no human in the loop |
-| **CloudPilot** | [▶ run](https://sourabh7300.github.io/cloudpilot.html) | Infrastructure that plans and ships itself |
-| **LLMOps Pipeline** | [▶ run](https://sourabh7300.github.io/llmops-pipelines/llmops-pipeline.html) | Prompt → tokens → scaled GPUs, traced end to end |
-| **CI/CD Dashboard** | [▶ run](https://sourabh7300.github.io/CICD-web-app/pipeline-dashboard.html) | Build → test → deploy, every stage visible |
-| **Ephemeral Playgrounds** | [▶ run](https://sourabh7300.github.io/Ephemeral-Playgrounds/ephemeral-playgrounds.html) | IaC sandboxes that live fast and cost nothing |
-| **DevOps Math** | [▶ run](https://sourabh7300.github.io/autonomus-SRE.html/devops-math.html) | SLOs and percentiles, made intuitive |
-| **ZEUS Console** | [▶ run](https://sourabh7300.github.io/autonomus-SRE.html/zeus_1.html) | Neural-link style ops console |
-
-## Also live
-
-| App | Live | What it is |
-|---|---|---|
-| 🌌 **Quantum Circuit Simulator** | [▶ run](https://sourabh7300.github.io/quantum.html) | Build a circuit, watch amplitudes collapse — a state-vector simulator in one page |
-| 🍔 **Foodora** | [▶ run](https://sourabh7300.github.io/foodora.html) | Food-delivery platform — 12 restaurants, 48 dishes with recipes in English / Hindi / Spanish, cart and checkout |
-| 🌱 **Groundwork** | [▶ run](https://sourabh7300.github.io/groundwork.html) | Learn AI from zero — eight fully interactive lessons, no prerequisites |
-| 🚗 **Mercedes-Benz** | [▶ run](https://sourabh7300.github.io/mercedes.html) | Cinematic luxury brand showcase, built entirely with CSS and canvas |
-| 🖼️ **Project Web** | [▶ open](https://sourabh7300.github.io/project-web.html) | Every app, one gallery, filters and live badges |
+The DevOps side, all runnable: [Autonomous SRE](https://sourabh7300.github.io/sre.html) (four agents, detect → triage → remediate → verify), [CloudPilot](https://sourabh7300.github.io/cloudpilot.html), [LLMOps Pipeline](https://sourabh7300.github.io/llmops-pipelines/llmops-pipeline.html), [CI/CD Dashboard](https://sourabh7300.github.io/CICD-web-app/pipeline-dashboard.html), [Ephemeral Playgrounds](https://sourabh7300.github.io/Ephemeral-Playgrounds/ephemeral-playgrounds.html).
 
 ---
 
